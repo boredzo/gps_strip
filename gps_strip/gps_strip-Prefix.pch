@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'gps_strip' target in the 'gps_strip' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
